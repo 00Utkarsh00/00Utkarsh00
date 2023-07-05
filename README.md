@@ -14,7 +14,7 @@
 </p>
 
 	
-## <picture><img src = "https://tenor.com/hCh8h4nNTBe.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
