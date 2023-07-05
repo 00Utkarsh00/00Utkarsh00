@@ -69,7 +69,7 @@
   </a>
 </p>
 
-### <picture> <img src = "<iframe src="https://giphy.com/embed/PjJ1cLHqLEveXysGDB?raw=true" width = 50px>  </picture> Machine Learning
+### <picture> <img src = "<iframe src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/giphy.gif?raw=true" width = 50px>  </picture> Machine Learning
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -77,7 +77,7 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=skidlearn&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
