@@ -19,8 +19,9 @@
 <picture> <img align="right" src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3458.gif?raw=true" width = 250px></picture>
 
 <br><br>
+- :school: I am a `AI/ML freelancer` at Upwork.
 
-- :school: I am a `final Year ` at B.Tech Computer Science Engineering at [Indian Institute of Information Technology Kota](https://iiitkota.ac.in/).
+- :school: I completed my `B.Tech` in Computer Science Engineering from [Indian Institute of Information Technology Kota](https://iiitkota.ac.in/).
 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at  `Leetcode`.
