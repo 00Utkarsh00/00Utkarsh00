@@ -19,7 +19,7 @@
 <picture> <img align="right" src="https://github.com/00Utkarsh00/00Utkarsh00/blob/main/snake/IMG_3457.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am a `AI/ML freelancer` at Upwork.
+- :school: I am a `AI Developer` at UK based Startup.
 
 - :school: I completed my `B.Tech` in Computer Science Engineering from [Indian Institute of Information Technology Kota](https://iiitkota.ac.in/).
 
